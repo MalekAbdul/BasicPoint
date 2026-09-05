@@ -1,2 +1,0 @@
-BasicPoint Private Program
-
