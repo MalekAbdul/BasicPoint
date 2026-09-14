@@ -32,9 +32,9 @@
         </nav>
 
         <div class="navbar__actions">
-            <x-btn href="#" variant="ghost" size="sm">Student Login</x-btn>
-            <x-btn href="#" variant="ghost" size="sm">Parent Login</x-btn>
-            <x-btn href="#admission-cta" variant="primary" size="sm">Admission</x-btn>
+            <!-- <x-btn href="#" variant="ghost" size="sm">Student Login</x-btn> -->
+            <!-- <x-btn href="#" variant="ghost" size="sm">Parent Login</x-btn> -->
+            <x-btn href="#admission-cta" variant="primary" size="sm">Login</x-btn>
         </div>
 
         <button type="button" class="navbar__toggle" data-nav-toggle aria-label="Toggle navigation menu" aria-expanded="false">
